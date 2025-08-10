@@ -2,23 +2,22 @@
 
 I’m a final-year AI & Data Science student passionate about building solutions that simply work. I get excited about emerging technologies, movies, and games. As a motorsport enthusiast, Formula 1 holds a special place in my heart. I believe in using technology responsibly and have a deep faith in the potential of people and communities.
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="250" valign="middle" style="border: none; padding: 0;">
-      <img src="./fact2.jpg" alt="Dwight: FACT!" width="250" style="border-radius: 50%;" />
+    <td style="border: none; width: 250px; vertical-align: middle; padding: 0;">
+      <img src="./fact2.jpg" alt="Dwight: FACT!" width="250" height="250" style="border-radius: 50%; object-fit: cover;" />
     </td>
-    <td valign="middle" align="center" style="vertical-align: middle; text-align: center; border: none; padding: 0 10px; width: auto;">
+    <td style="border: none; vertical-align: middle; text-align: center; padding: 0 10px;">
       <a href="https://git.io/typing-svg" style="display: inline-block;">
         <img
-          src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=700&lines=%22Bears.+Beets.+Battlestar+Galactica.%22;%22Identity+theft+is+not+a+joke,+Jim!%22;%22I+am+better+than+you+have+ever+been+or+ever+will+be.%22;%22You+couldn%E2%80%99t+handle+my+undivided+attention.%22;%22I+am+the+Assistant+Regional+Manager.+%28Correction:+Assistant+to+the+Regional+Manager%29%22;%22I+don%E2%80%99t+believe+in+coddling+people.%22;%22You+miss+100%25+of+the+shots+you+don%E2%80%99t+take.+%E2%80%94+Wayne+Gretzky+%E2%80%94+Michael+Scott.%22;%22Fact:+I+am+not+a+hero.+I+am+a+mere+defender+of+the+office.%22;%22It%E2%80%99s+never+too+early+for+ice+cream.%22;%22There+are+two+kinds+of+people:+those+who+like+The+Office+and+those+who+don%E2%80%99t.%22;%22Michael+is+like+Mozart,+and+I%E2%80%99m+like+Butch+Cassidy.%22;The+End.&cursor=true&pause=200&speed=70&font=Special+Elite&repeat=true&fontSize=80"
+          src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=700&lines=%22Bears.+Beets.+Battlestar+Galactica.%22;%22Identity+theft+is+not+a+joke,+Jim!%22;%22I+am+better+than+you+have+ever+been+or+ever+will+be.%22;%22You+couldn%E2%80%99t+handle+my+undivided+attention.%22;%22I+don%E2%80%99t+believe+in+coddling+people.%22;%22Fact:+I+am+not+a+hero.+I+am+a+mere+defender+of+the+office.%22;%22It%E2%80%99s+never+too+early+for+ice+cream.%22;%22Michael+is+like+Mozart,+and+I%E2%80%99m+like+Butch+Cassidy.%22;%22Always+the+Padawan,+never+the+Jedi.%22;%22There%E2%80%99s+too+many+people+on+this+earth.+We+need+a+new+plague.%22;%22Today,+smoking+is+going+to+save+lives.%22;%22The+eyes+are+the+groin+of+the+head.%22;%22Five+minutes+ahead+of+schedule.+Right+on+schedule.%22;%22Blink+once+if+you+want+me+to+pull+the+plug.%22;%22Who+is+Justice+Beaver%3F%22;%22You+only+live+once%3F+False.+You+live+every+day.+You+only+die+once.%22;%22Ah,+humor.+I+have+it+too.%22;%22Will+I+get+over+it%3F+Mmm.+No.+But+life+goes+on.%22;%22Failure+of+any+kind+is+failure.%22;%22Love+is+all+you+need%3F+False,+you+need+water+and+rations.%22;%22I+am+faster+than+80+percent+of+all+snakes.%22;%22Do+I+have+a+date+for+Valentine%E2%80%99s+Day%3F+Yes.+February+14th.%22;The+End.&cursor=true&pause=200&speed=70&font=Special+Elite&repeat=true&fontSize=80"
           alt="Dwight Schrute Facts Typewriter Animation"
-          style="max-width: 100%; height: auto;"
+          style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
         />
       </a>
     </td>
   </tr>
 </table>
-
 
 ## Skills
 
