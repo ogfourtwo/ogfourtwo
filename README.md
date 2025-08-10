@@ -1,9 +1,26 @@
 ## Hi, I'm Sravan Chand
 
-I am a final-year AI Data Science student with a passion for building things that just work. I get excited about new tech, big fan of Formula 1. I believe in using tech responsibly and hold a deep belief in the potential of people and communities.
+I’m a final-year AI & Data Science student passionate about building solutions that simply work. I get excited about emerging technologies, movies, and games. As a motorsport enthusiast, Formula 1 holds a special place in my heart. I believe in using technology responsibly and have a deep faith in the potential of people and communities.
+
+<table>
+  <tr>
+    <td width="250" valign="middle">
+      <img src="./fact2.jpg" alt="Dwight: FACT!" width="250" />
+    </td>
+    <td valign="middle" align="left" style="vertical-align: middle; text-align: center;">
+      <a href="https://git.io/typing-svg" style="display: inline-block;">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Bears.+Beets.+Battlestar+Galactica.%22;%22Identity+theft+is+not+a+joke,+Jim!%22;%22I+am+better+than+you+have+ever+been+or+ever+will+be.%22;%22You+couldn%E2%80%99t+handle+my+undivided+attention.%22;%22I+am+the+Assistant+Regional+Manager.+%28Correction:+Assistant+TO+the+Regional+Manager%29%22;%22I+don%E2%80%99t+believe+in+coddling+people.%22;%22You+miss+100%25+of+the+shots+you+don%E2%80%99t+take.+%E2%80%94+Wayne+Gretzky+%E2%80%94+Michael+Scott.%22;%22Fact:+I+am+not+a+hero.+I+am+a+mere+defender+of+the+office.%22;%22It%E2%80%99s+never+too+early+for+ice+cream.%22;%22There+are+two+kinds+of+people:+those+who+like+The+Office+and+those+who+don%E2%80%99t.%22;%22Michael+is+like+Mozart,+and+I%E2%80%99m+like+Butch+Cassidy.%22;The+End.&cursor=true&pause=80&speed=100&font=Special+Elite&repeat=true&fontSize=24"
+          alt="Dwight Schrute Facts Typewriter Animation"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Bananas+are+berries%2C+but+strawberries+aren't;Sharks+are+older+than+trees;A+day+on+Venus+is+longer+than+a+year;Octopuses+have+three+hearts;Honey+never+spoils;There+are+more+stars+in+space+than+grains+of+sand+on+Earth)](https://git.io/typing-svg)
+
+
 
 ## Skills
 
