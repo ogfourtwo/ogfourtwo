@@ -2,25 +2,21 @@
 
 I’m a final-year AI & Data Science student passionate about building solutions that simply work. I get excited about emerging technologies, movies, and games. As a motorsport enthusiast, Formula 1 holds a special place in my heart. I believe in using technology responsibly and have a deep faith in the potential of people and communities.
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="250" valign="middle">
-      <img src="./fact2.jpg" alt="Dwight: FACT!" width="250" />
+    <td width="250" valign="middle" style="border: none; padding: 0;">
+      <img src="./fact2.jpg" alt="Dwight: FACT!" width="250" style="border-radius: 50%;" />
     </td>
-    <td valign="middle" align="left" style="vertical-align: middle; text-align: center;">
+    <td valign="middle" align="center" style="vertical-align: middle; text-align: center; border: none; padding: 0 10px;">
       <a href="https://git.io/typing-svg" style="display: inline-block;">
         <img
-          src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Bears.+Beets.+Battlestar+Galactica.%22;%22Identity+theft+is+not+a+joke,+Jim!%22;%22I+am+better+than+you+have+ever+been+or+ever+will+be.%22;%22You+couldn%E2%80%99t+handle+my+undivided+attention.%22;%22I+am+the+Assistant+Regional+Manager.+%28Correction:+Assistant+TO+the+Regional+Manager%29%22;%22I+don%E2%80%99t+believe+in+coddling+people.%22;%22You+miss+100%25+of+the+shots+you+don%E2%80%99t+take.+%E2%80%94+Wayne+Gretzky+%E2%80%94+Michael+Scott.%22;%22Fact:+I+am+not+a+hero.+I+am+a+mere+defender+of+the+office.%22;%22It%E2%80%99s+never+too+early+for+ice+cream.%22;%22There+are+two+kinds+of+people:+those+who+like+The+Office+and+those+who+don%E2%80%99t.%22;%22Michael+is+like+Mozart,+and+I%E2%80%99m+like+Butch+Cassidy.%22;The+End.&cursor=true&pause=80&speed=100&font=Special+Elite&repeat=true&fontSize=24"
+          src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Bears.+Beets.+Battlestar+Galactica.%22;%22Identity+theft+is+not+a+joke,+Jim!%22;%22I+am+better+than+you+have+ever+been+or+ever+will+be.%22;%22You+couldn%E2%80%99t+handle+my+undivided+attention.%22;%22I+am+the+Assistant+Regional+Manager.+%28Correction:+Assistant+to+the+Regional+Manager%29%22;%22I+don%E2%80%99t+believe+in+coddling+people.%22;%22You+miss+100%25+of+the+shots+you+don%E2%80%99t+take.+%E2%80%94+Wayne+Gretzky+%E2%80%94+Michael+Scott.%22;%22Fact:+I+am+not+a+hero.+I+am+a+mere+defender+of+the+office.%22;%22It%E2%80%99s+never+too+early+for+ice+cream.%22;%22There+are+two+kinds+of+people:+those+who+like+The+Office+and+those+who+don%E2%80%99t.%22;%22Michael+is+like+Mozart,+and+I%E2%80%99m+like+Butch+Cassidy.%22;The+End.&cursor=true&pause=200&speed=70&font=Special+Elite&repeat=true&fontSize=36"
           alt="Dwight Schrute Facts Typewriter Animation"
         />
       </a>
     </td>
   </tr>
 </table>
-
-
-
-
 
 ## Skills
 
@@ -36,7 +32,6 @@ I’m a final-year AI & Data Science student passionate about building solutions
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 
----
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsravanchand)   [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/ogflash)  
