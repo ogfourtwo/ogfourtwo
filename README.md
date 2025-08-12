@@ -36,4 +36,5 @@ I’m a final-year AI & Data Science student passionate about building solutions
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsravanchand)   [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/ogflash)  
-**sravan.chand14@gmail.com**
+**sravan.chand14@gmail.com**  
+[Resume](https://ogfourtwo.github.io/webportfolio/resume.pdf)
